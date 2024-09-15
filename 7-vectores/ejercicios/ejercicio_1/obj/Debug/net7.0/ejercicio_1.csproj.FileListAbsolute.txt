@@ -1,0 +1,15 @@
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\obj\Debug\net7.0\ejercicio_1.csproj.AssemblyReference.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\obj\Debug\net7.0\ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\obj\Debug\net7.0\ejercicio_1.AssemblyInfoInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\obj\Debug\net7.0\ejercicio_1.AssemblyInfo.cs
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\obj\Debug\net7.0\ejercicio_1.csproj.CoreCompileInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\bin\Debug\net7.0\ejercicio_1.exe
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\bin\Debug\net7.0\ejercicio_1.deps.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\bin\Debug\net7.0\ejercicio_1.runtimeconfig.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\bin\Debug\net7.0\ejercicio_1.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\bin\Debug\net7.0\ejercicio_1.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\obj\Debug\net7.0\ejercicio_1.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\obj\Debug\net7.0\refint\ejercicio_1.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\obj\Debug\net7.0\ejercicio_1.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\obj\Debug\net7.0\ejercicio_1.genruntimeconfig.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejercicios\ejercicio_1\obj\Debug\net7.0\ref\ejercicio_1.dll

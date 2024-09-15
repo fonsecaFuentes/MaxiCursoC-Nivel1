@@ -1,0 +1,15 @@
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\bin\Debug\net7.0\ParamValorReferencia.exe
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\bin\Debug\net7.0\ParamValorReferencia.deps.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\bin\Debug\net7.0\ParamValorReferencia.runtimeconfig.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\bin\Debug\net7.0\ParamValorReferencia.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\bin\Debug\net7.0\ParamValorReferencia.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\obj\Debug\net7.0\ParamValorReferencia.csproj.AssemblyReference.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\obj\Debug\net7.0\ParamValorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\obj\Debug\net7.0\ParamValorReferencia.AssemblyInfoInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\obj\Debug\net7.0\ParamValorReferencia.AssemblyInfo.cs
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\obj\Debug\net7.0\ParamValorReferencia.csproj.CoreCompileInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\obj\Debug\net7.0\ParamValorReferencia.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\obj\Debug\net7.0\refint\ParamValorReferencia.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\obj\Debug\net7.0\ParamValorReferencia.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\obj\Debug\net7.0\ParamValorReferencia.genruntimeconfig.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\8-funciones\ejemploFunciones\ParamValorReferencia\obj\Debug\net7.0\ref\ParamValorReferencia.dll

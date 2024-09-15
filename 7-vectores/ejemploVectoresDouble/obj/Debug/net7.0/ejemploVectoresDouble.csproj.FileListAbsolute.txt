@@ -1,0 +1,15 @@
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\bin\Debug\net7.0\ejemploVectoresDouble.exe
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\bin\Debug\net7.0\ejemploVectoresDouble.deps.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\bin\Debug\net7.0\ejemploVectoresDouble.runtimeconfig.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\bin\Debug\net7.0\ejemploVectoresDouble.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\bin\Debug\net7.0\ejemploVectoresDouble.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\obj\Debug\net7.0\ejemploVectoresDouble.csproj.AssemblyReference.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\obj\Debug\net7.0\ejemploVectoresDouble.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\obj\Debug\net7.0\ejemploVectoresDouble.AssemblyInfoInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\obj\Debug\net7.0\ejemploVectoresDouble.AssemblyInfo.cs
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\obj\Debug\net7.0\ejemploVectoresDouble.csproj.CoreCompileInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\obj\Debug\net7.0\ejemploVectoresDouble.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\obj\Debug\net7.0\refint\ejemploVectoresDouble.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\obj\Debug\net7.0\ejemploVectoresDouble.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\obj\Debug\net7.0\ejemploVectoresDouble.genruntimeconfig.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\7-vectores\ejemploVectoresDouble\obj\Debug\net7.0\ref\ejemploVectoresDouble.dll

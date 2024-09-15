@@ -1,0 +1,15 @@
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.exe
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.deps.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.runtimeconfig.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\bin\Debug\net7.0\cicloDoWhile.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.csproj.AssemblyReference.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.AssemblyInfoInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.AssemblyInfo.cs
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.csproj.CoreCompileInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\obj\Debug\net7.0\refint\cicloDoWhile.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\obj\Debug\net7.0\cicloDoWhile.genruntimeconfig.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\5-ciclos\cicloDoWhile\obj\Debug\net7.0\ref\cicloDoWhile.dll

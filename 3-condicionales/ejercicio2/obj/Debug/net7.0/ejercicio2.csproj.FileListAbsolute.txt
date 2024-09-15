@@ -1,0 +1,15 @@
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\bin\Debug\net7.0\ejercicio2.exe
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\bin\Debug\net7.0\ejercicio2.deps.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\bin\Debug\net7.0\ejercicio2.runtimeconfig.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\bin\Debug\net7.0\ejercicio2.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\bin\Debug\net7.0\ejercicio2.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\obj\Debug\net7.0\ejercicio2.csproj.AssemblyReference.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\obj\Debug\net7.0\ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\obj\Debug\net7.0\ejercicio2.AssemblyInfoInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\obj\Debug\net7.0\ejercicio2.AssemblyInfo.cs
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\obj\Debug\net7.0\ejercicio2.csproj.CoreCompileInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\obj\Debug\net7.0\ejercicio2.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\obj\Debug\net7.0\refint\ejercicio2.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\obj\Debug\net7.0\ejercicio2.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\obj\Debug\net7.0\ejercicio2.genruntimeconfig.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\ejercicio2\obj\Debug\net7.0\ref\ejercicio2.dll

@@ -1,0 +1,30 @@
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\bin\Debug\net7.0\comisión_empleado.exe
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\bin\Debug\net7.0\comisión_empleado.deps.json
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\bin\Debug\net7.0\comisión_empleado.runtimeconfig.json
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\bin\Debug\net7.0\comisión_empleado.dll
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\bin\Debug\net7.0\comisión_empleado.pdb
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\obj\Debug\net7.0\comisión_empleado.csproj.AssemblyReference.cache
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\obj\Debug\net7.0\comisión_empleado.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\obj\Debug\net7.0\comisión_empleado.AssemblyInfoInputs.cache
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\obj\Debug\net7.0\comisión_empleado.AssemblyInfo.cs
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\obj\Debug\net7.0\comisión_empleado.csproj.CoreCompileInputs.cache
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\obj\Debug\net7.0\comisión_empleado.dll
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\obj\Debug\net7.0\refint\comisión_empleado.dll
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\obj\Debug\net7.0\comisión_empleado.pdb
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\obj\Debug\net7.0\comisión_empleado.genruntimeconfig.cache
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\comisión_empleado\obj\Debug\net7.0\ref\comisión_empleado.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\bin\Debug\net7.0\comisión_empleado.exe
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\bin\Debug\net7.0\comisión_empleado.deps.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\bin\Debug\net7.0\comisión_empleado.runtimeconfig.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\bin\Debug\net7.0\comisión_empleado.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\bin\Debug\net7.0\comisión_empleado.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\obj\Debug\net7.0\comisión_empleado.csproj.AssemblyReference.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\obj\Debug\net7.0\comisión_empleado.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\obj\Debug\net7.0\comisión_empleado.AssemblyInfoInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\obj\Debug\net7.0\comisión_empleado.AssemblyInfo.cs
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\obj\Debug\net7.0\comisión_empleado.csproj.CoreCompileInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\obj\Debug\net7.0\comisión_empleado.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\obj\Debug\net7.0\refint\comisión_empleado.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\obj\Debug\net7.0\comisión_empleado.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\obj\Debug\net7.0\comisión_empleado.genruntimeconfig.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\2-primerPrograma\comision-empleado\obj\Debug\net7.0\ref\comisión_empleado.dll

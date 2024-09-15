@@ -1,0 +1,15 @@
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\bin\Debug\net7.0\corteDeControl.exe
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\bin\Debug\net7.0\corteDeControl.deps.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\bin\Debug\net7.0\corteDeControl.runtimeconfig.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\bin\Debug\net7.0\corteDeControl.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\bin\Debug\net7.0\corteDeControl.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\obj\Debug\net7.0\corteDeControl.csproj.AssemblyReference.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\obj\Debug\net7.0\corteDeControl.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\obj\Debug\net7.0\corteDeControl.AssemblyInfoInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\obj\Debug\net7.0\corteDeControl.AssemblyInfo.cs
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\obj\Debug\net7.0\corteDeControl.csproj.CoreCompileInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\obj\Debug\net7.0\corteDeControl.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\obj\Debug\net7.0\refint\corteDeControl.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\obj\Debug\net7.0\corteDeControl.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\obj\Debug\net7.0\corteDeControl.genruntimeconfig.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\6-ciclosCombinados\corteDeControl\obj\Debug\net7.0\ref\corteDeControl.dll

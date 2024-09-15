@@ -1,0 +1,15 @@
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\obj\Debug\net7.0\evaluacion.csproj.AssemblyReference.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\obj\Debug\net7.0\evaluacion.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\obj\Debug\net7.0\evaluacion.AssemblyInfoInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\obj\Debug\net7.0\evaluacion.AssemblyInfo.cs
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\obj\Debug\net7.0\evaluacion.csproj.CoreCompileInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\bin\Debug\net7.0\evaluacion.exe
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\bin\Debug\net7.0\evaluacion.deps.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\bin\Debug\net7.0\evaluacion.runtimeconfig.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\bin\Debug\net7.0\evaluacion.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\bin\Debug\net7.0\evaluacion.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\obj\Debug\net7.0\evaluacion.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\obj\Debug\net7.0\refint\evaluacion.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\obj\Debug\net7.0\evaluacion.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\obj\Debug\net7.0\evaluacion.genruntimeconfig.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\evaluacion\obj\Debug\net7.0\ref\evaluacion.dll

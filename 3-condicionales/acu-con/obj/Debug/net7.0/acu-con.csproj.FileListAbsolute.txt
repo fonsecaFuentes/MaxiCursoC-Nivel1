@@ -1,0 +1,15 @@
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\bin\Debug\net7.0\acu-con.exe
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\bin\Debug\net7.0\acu-con.deps.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\bin\Debug\net7.0\acu-con.runtimeconfig.json
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\bin\Debug\net7.0\acu-con.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\bin\Debug\net7.0\acu-con.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\obj\Debug\net7.0\acu-con.csproj.AssemblyReference.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\obj\Debug\net7.0\acu-con.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\obj\Debug\net7.0\acu-con.AssemblyInfoInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\obj\Debug\net7.0\acu-con.AssemblyInfo.cs
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\obj\Debug\net7.0\acu-con.csproj.CoreCompileInputs.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\obj\Debug\net7.0\acu-con.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\obj\Debug\net7.0\refint\acu-con.dll
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\obj\Debug\net7.0\acu-con.pdb
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\obj\Debug\net7.0\acu-con.genruntimeconfig.cache
+E:\data\Cursos\Maxi_programa\Curso_C#_Nivel1\3-condicionales\acu-con\obj\Debug\net7.0\ref\acu-con.dll

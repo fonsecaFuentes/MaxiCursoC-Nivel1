@@ -1,0 +1,5 @@
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\primer-programa\obj\Debug\net5.0\primer-programa.csproj.AssemblyReference.cache
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\primer-programa\obj\Debug\net5.0\primer-programa.GeneratedMSBuildEditorConfig.editorconfig
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\primer-programa\obj\Debug\net5.0\primer-programa.AssemblyInfoInputs.cache
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\primer-programa\obj\Debug\net5.0\primer-programa.AssemblyInfo.cs
+E:\data\Cursos\Maxi_programa\Curso C# Nivel 1\primer-programa\obj\Debug\net5.0\primer-programa.csproj.CoreCompileInputs.cache
